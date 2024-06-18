@@ -1,0 +1,56 @@
+name: guia_jovem
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  carousel_slider: ^4.0.0
+  provider: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/assets/image/logo.png
+    - lib/assets/image/background.gif
+    - lib/assets/image/fundo.gif
+    - lib/assets/image/google_icon.png
+    - lib/assets/image/cruzeiro_do_sul.png
+    - lib/assets/image/fatec.png
+    - lib/assets/image/usp.png
+    - lib/assets/image/unesp.png
+    - lib/assets/image/univesp.png
+    - lib/assets/image/if.png
+    - lib/assets/image/unifesp.png
+    - lib/assets/image/unip.png
+    - lib/assets/image/cruzeiro.png
+    - lib/assets/image/unicsul.png
+    - lib/assets/image/enem.png
+    - lib/assets/image/fies.png
+    - lib/assets/image/prouni.png
+    - lib/assets/image/sisu.png
+    - lib/assets/image/ads.png
+    - lib/assets/image/psicologia.png
+    - lib/assets/image/direito.png
+    - lib/assets/image/enfermagem.png
+    - lib/assets/image/administracao.png
+    - lib/assets/image/biomedicina.png
+    - lib/assets/image/med_veterinaria.png
+    - lib/assets/image/nutricao.png
+    - lib/assets/image/pedagogia.png
+    - lib/assets/image/gestao_rh.png
+    - lib/assets/image/farmacia.png
+    - lib/assets/image/ciencias_contabeis.png
